@@ -1,0 +1,10 @@
+{
+  "Valid" : {
+    "email" :"waqasmanual@mailinator.com",
+    "password":"Boring321"
+  },
+  "Invalid" : {
+    "email": "waqaseee@mailinator.com",
+    "password": "Boring"
+  }
+}
