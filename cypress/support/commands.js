@@ -35,3 +35,5 @@ Cypress.Commands.add('login', (username, password) => {
   cy.get('input[name="password"').type(password);
   cy.get('#loginbtn').click();
 });
+
+import 'cypress-iframe';

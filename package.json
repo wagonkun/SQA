@@ -9,6 +9,7 @@
   "author": "Musa",
   "license": "ISC",
   "devDependencies": {
-    "cypress": "^13.13.1"
+    "cypress": "^13.13.1",
+    "cypress-iframe": "^1.0.1"
   }
 }
